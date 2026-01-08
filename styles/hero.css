@@ -130,3 +130,23 @@ nav .menu a {
     display: flex;
    justify-content: space-around;
  }
+ #skills {
+    padding-top: 130px;
+ }
+ #skills .skills-content {
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    
+ }
+
+ #skills .skills-box .skill-card {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .skill-card{
+    padding: 30px;
+    border: 1px solid #E8E8E8;
+    display: flex;
+ }
